@@ -1,0 +1,1 @@
+new Swiper(".swiper-container",{slidesPerView:1,spaceBetween:20,effect:"fade",loop:!0,speed:300,mousewheel:{invert:!1},pagination:{el:".swiper-pagination",clickable:!0,dynamicBullets:!0},navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}});
